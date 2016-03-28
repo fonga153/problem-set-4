@@ -1,5 +1,6 @@
 #! /usr/bin/env bash
 
+
 datasets='/Users/test/GitHub/ProblemSet1/problem-set-1/problem-set-4/data'
 chr1fa="$datasets/hg19.chr1.fa"
 factorxchr1fq="$datasets/factorx.chr1.fq"
